@@ -3,3 +3,4 @@ change 1 succesull
 checking change 2
 updating in orgin and expecting changes in local
 fdhg
+changing in branch and expecting it to change in master
